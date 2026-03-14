@@ -36,6 +36,9 @@ wandb/
 # MacOS
 .DS_Store
 
+# Notebook generator scripts (internal tooling, not part of assignment)
+generate_*.py
+
 # IDE
 .vscode/
 .idea/
